@@ -1,6 +1,7 @@
-#Problem Link Leetcode: https://leetcode.com/problems/merge-sorted-array/?envType=problem-list-v2&envId=array
+// Problem Link Leetcode: https://leetcode.com/problems/merge-sorted-array/?envType=problem-list-v2&envId=array
 
-package Arrays.Merge Sorted Array;
+import java.util.Arrays;
+
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         for(int i=0;i<n;i++){

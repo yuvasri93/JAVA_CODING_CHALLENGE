@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 class Solution {
     public ArrayList<Integer> getMinMax(int[] arr) {
         // code Here
