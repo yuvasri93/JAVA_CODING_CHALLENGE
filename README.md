@@ -17,7 +17,7 @@ This repository showcases my journey of solving Java programming and Data Struct
 
 | Category                  | Solved |
 | ------------------------- | -----: |
-| Arrays                    |      2 |
+| Arrays                    |      3 |
 | Strings                   |      0 |
 | HashMap                   |      0 |
 | Linked List               |      0 |
