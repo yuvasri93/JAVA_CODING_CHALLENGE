@@ -26,7 +26,7 @@ This repository showcases my journey of solving Java programming and Data Struct
 | Trees                     |      0 |
 | Graphs                    |      0 |
 | Dynamic Programming       |      0 |
-| **Total Problems Solved** |  **0** |
+| **Total Problems Solved** |  **3** |
 
 > This table will be updated as I continue solving more problems.
 
